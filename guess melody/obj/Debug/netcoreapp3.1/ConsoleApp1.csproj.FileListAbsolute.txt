@@ -1,0 +1,13 @@
+C:\2sem\C#\first_lab\task1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\2sem\C#\first_lab\task1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\2sem\C#\first_lab\task1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\2sem\C#\first_lab\task1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\2sem\C#\first_lab\task1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\2sem\C#\first_lab\task1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\2sem\C#\first_lab\task1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\2sem\C#\first_lab\task1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\2sem\C#\first_lab\task1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\2sem\C#\first_lab\task1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\2sem\C#\first_lab\task1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\2sem\C#\first_lab\task1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\2sem\C#\first_lab\task1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
