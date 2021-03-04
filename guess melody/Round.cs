@@ -20,7 +20,6 @@ namespace ConsoleApp1
             }
         }
         Melody Song = new Melody();
-        
         int Score=0;
         public void NewRound(int number)
         {
