@@ -184,7 +184,12 @@ namespace ConsoleApp1
                 Console.WriteLine($"4.{SongNames[number]}");
             }
             NullBool();
-            int UserAnswer = int.Parse(Console.ReadLine());
+            int UserAnswer = 0;
+            while (!int.TryParse(Console.ReadLine(), out UserAnswer))
+            {
+                Console.WriteLine("Error Input");
+            }
+            
             if (UserAnswer == CorrectAnswer)
             {
                 Console.WriteLine("That is correct");
