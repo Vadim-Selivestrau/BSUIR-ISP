@@ -1,0 +1,16 @@
+C:\2sem\C#\second_lab\task3\bin\Debug\net5.0\task3.exe
+C:\2sem\C#\second_lab\task3\bin\Debug\net5.0\task3.deps.json
+C:\2sem\C#\second_lab\task3\bin\Debug\net5.0\task3.runtimeconfig.json
+C:\2sem\C#\second_lab\task3\bin\Debug\net5.0\task3.runtimeconfig.dev.json
+C:\2sem\C#\second_lab\task3\bin\Debug\net5.0\task3.dll
+C:\2sem\C#\second_lab\task3\bin\Debug\net5.0\ref\task3.dll
+C:\2sem\C#\second_lab\task3\bin\Debug\net5.0\task3.pdb
+C:\2sem\C#\second_lab\task3\obj\Debug\net5.0\task3.csprojAssemblyReference.cache
+C:\2sem\C#\second_lab\task3\obj\Debug\net5.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\2sem\C#\second_lab\task3\obj\Debug\net5.0\task3.AssemblyInfoInputs.cache
+C:\2sem\C#\second_lab\task3\obj\Debug\net5.0\task3.AssemblyInfo.cs
+C:\2sem\C#\second_lab\task3\obj\Debug\net5.0\task3.csproj.CoreCompileInputs.cache
+C:\2sem\C#\second_lab\task3\obj\Debug\net5.0\task3.dll
+C:\2sem\C#\second_lab\task3\obj\Debug\net5.0\ref\task3.dll
+C:\2sem\C#\second_lab\task3\obj\Debug\net5.0\task3.pdb
+C:\2sem\C#\second_lab\task3\obj\Debug\net5.0\task3.genruntimeconfig.cache
