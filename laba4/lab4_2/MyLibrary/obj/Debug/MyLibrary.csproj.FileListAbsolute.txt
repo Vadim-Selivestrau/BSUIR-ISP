@@ -1,0 +1,6 @@
+D:\folder for test\dll\MyLibrary\bin\Debug\MyLibrary.dll
+D:\folder for test\dll\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\folder for test\dll\MyLibrary\obj\Debug\MyLibrary.csprojAssemblyReference.cache
+D:\folder for test\dll\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\folder for test\dll\MyLibrary\obj\Debug\MyLibrary.dll
+D:\folder for test\dll\MyLibrary\obj\Debug\MyLibrary.pdb

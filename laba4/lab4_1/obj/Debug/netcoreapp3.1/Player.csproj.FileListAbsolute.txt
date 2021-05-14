@@ -1,0 +1,39 @@
+D:\Учёба\ИСП\4\1\Player\bin\Debug\netcoreapp3.1\Player.exe
+D:\Учёба\ИСП\4\1\Player\bin\Debug\netcoreapp3.1\Player.deps.json
+D:\Учёба\ИСП\4\1\Player\bin\Debug\netcoreapp3.1\Player.runtimeconfig.json
+D:\Учёба\ИСП\4\1\Player\bin\Debug\netcoreapp3.1\Player.runtimeconfig.dev.json
+D:\Учёба\ИСП\4\1\Player\bin\Debug\netcoreapp3.1\Player.dll
+D:\Учёба\ИСП\4\1\Player\bin\Debug\netcoreapp3.1\Player.pdb
+D:\Учёба\ИСП\4\1\Player\obj\Debug\netcoreapp3.1\Player.csprojAssemblyReference.cache
+D:\Учёба\ИСП\4\1\Player\obj\Debug\netcoreapp3.1\Player.AssemblyInfoInputs.cache
+D:\Учёба\ИСП\4\1\Player\obj\Debug\netcoreapp3.1\Player.AssemblyInfo.cs
+D:\Учёба\ИСП\4\1\Player\obj\Debug\netcoreapp3.1\Player.csproj.CoreCompileInputs.cache
+D:\Учёба\ИСП\4\1\Player\obj\Debug\netcoreapp3.1\Player.dll
+D:\Учёба\ИСП\4\1\Player\obj\Debug\netcoreapp3.1\Player.pdb
+D:\Учёба\ИСП\4\1\Player\obj\Debug\netcoreapp3.1\Player.genruntimeconfig.cache
+C:\Users\user\Desktop\C-sharp-main\4\1\Player\bin\Debug\netcoreapp3.1\Player.exe
+C:\Users\user\Desktop\C-sharp-main\4\1\Player\bin\Debug\netcoreapp3.1\Player.deps.json
+C:\Users\user\Desktop\C-sharp-main\4\1\Player\bin\Debug\netcoreapp3.1\Player.runtimeconfig.json
+C:\Users\user\Desktop\C-sharp-main\4\1\Player\bin\Debug\netcoreapp3.1\Player.runtimeconfig.dev.json
+C:\Users\user\Desktop\C-sharp-main\4\1\Player\bin\Debug\netcoreapp3.1\Player.dll
+C:\Users\user\Desktop\C-sharp-main\4\1\Player\bin\Debug\netcoreapp3.1\Player.pdb
+C:\Users\user\Desktop\C-sharp-main\4\1\Player\obj\Debug\netcoreapp3.1\Player.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C-sharp-main\4\1\Player\obj\Debug\netcoreapp3.1\Player.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C-sharp-main\4\1\Player\obj\Debug\netcoreapp3.1\Player.AssemblyInfo.cs
+C:\Users\user\Desktop\C-sharp-main\4\1\Player\obj\Debug\netcoreapp3.1\Player.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C-sharp-main\4\1\Player\obj\Debug\netcoreapp3.1\Player.dll
+C:\Users\user\Desktop\C-sharp-main\4\1\Player\obj\Debug\netcoreapp3.1\Player.pdb
+C:\Users\user\Desktop\C-sharp-main\4\1\Player\obj\Debug\netcoreapp3.1\Player.genruntimeconfig.cache
+D:\folder for test\laba4\lab4_1\bin\Debug\netcoreapp3.1\Player.exe
+D:\folder for test\laba4\lab4_1\bin\Debug\netcoreapp3.1\Player.deps.json
+D:\folder for test\laba4\lab4_1\bin\Debug\netcoreapp3.1\Player.runtimeconfig.json
+D:\folder for test\laba4\lab4_1\bin\Debug\netcoreapp3.1\Player.runtimeconfig.dev.json
+D:\folder for test\laba4\lab4_1\bin\Debug\netcoreapp3.1\Player.dll
+D:\folder for test\laba4\lab4_1\bin\Debug\netcoreapp3.1\Player.pdb
+D:\folder for test\laba4\lab4_1\obj\Debug\netcoreapp3.1\Player.csprojAssemblyReference.cache
+D:\folder for test\laba4\lab4_1\obj\Debug\netcoreapp3.1\Player.AssemblyInfoInputs.cache
+D:\folder for test\laba4\lab4_1\obj\Debug\netcoreapp3.1\Player.AssemblyInfo.cs
+D:\folder for test\laba4\lab4_1\obj\Debug\netcoreapp3.1\Player.csproj.CoreCompileInputs.cache
+D:\folder for test\laba4\lab4_1\obj\Debug\netcoreapp3.1\Player.dll
+D:\folder for test\laba4\lab4_1\obj\Debug\netcoreapp3.1\Player.pdb
+D:\folder for test\laba4\lab4_1\obj\Debug\netcoreapp3.1\Player.genruntimeconfig.cache
