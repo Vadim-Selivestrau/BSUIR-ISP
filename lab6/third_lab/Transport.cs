@@ -17,14 +17,6 @@ namespace third_lab
     }
     public class Transport
     {
-        /*public void FaraOn()
-        {
-            Console.WriteLine("Fara is on");
-        }
-        public void FaraOff()
-        {
-            Console.WriteLine("Fara is off");
-        }*/
         protected bool Fara = false;
         float speed;
         int countPassengerSeats;
