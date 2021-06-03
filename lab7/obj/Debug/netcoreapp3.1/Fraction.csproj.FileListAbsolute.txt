@@ -1,0 +1,13 @@
+C:\Users\user\Documents\7.1Fraction\bin\Debug\netcoreapp3.1\Fraction.exe
+C:\Users\user\Documents\7.1Fraction\bin\Debug\netcoreapp3.1\Fraction.deps.json
+C:\Users\user\Documents\7.1Fraction\bin\Debug\netcoreapp3.1\Fraction.runtimeconfig.json
+C:\Users\user\Documents\7.1Fraction\bin\Debug\netcoreapp3.1\Fraction.runtimeconfig.dev.json
+C:\Users\user\Documents\7.1Fraction\bin\Debug\netcoreapp3.1\Fraction.dll
+C:\Users\user\Documents\7.1Fraction\bin\Debug\netcoreapp3.1\Fraction.pdb
+C:\Users\user\Documents\7.1Fraction\obj\Debug\netcoreapp3.1\Fraction.csprojAssemblyReference.cache
+C:\Users\user\Documents\7.1Fraction\obj\Debug\netcoreapp3.1\Fraction.AssemblyInfoInputs.cache
+C:\Users\user\Documents\7.1Fraction\obj\Debug\netcoreapp3.1\Fraction.AssemblyInfo.cs
+C:\Users\user\Documents\7.1Fraction\obj\Debug\netcoreapp3.1\Fraction.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\7.1Fraction\obj\Debug\netcoreapp3.1\Fraction.dll
+C:\Users\user\Documents\7.1Fraction\obj\Debug\netcoreapp3.1\Fraction.pdb
+C:\Users\user\Documents\7.1Fraction\obj\Debug\netcoreapp3.1\Fraction.genruntimeconfig.cache
