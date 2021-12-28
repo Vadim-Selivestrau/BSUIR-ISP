@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "053501_Selivestrau_lab5/1.0.0": {
+        "dependencies": {
+          "053501_Selivestrau_lab5.Domain": "1.0.0"
+        },
+        "runtime": {
+          "053501_Selivestrau_lab5.dll": {}
+        }
+      },
+      "053501_Selivestrau_lab5.Domain/1.0.0": {
+        "runtime": {
+          "053501_Selivestrau_lab5.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "053501_Selivestrau_lab5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "053501_Selivestrau_lab5.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

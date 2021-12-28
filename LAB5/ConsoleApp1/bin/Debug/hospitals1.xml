@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<ArrayOfHospital xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hospital>
+    <RD>
+      <Patient>
+        <Name>Vaim</Name>
+        <TypeDisease>headache</TypeDisease>
+        <Age>18</Age>
+      </Patient>
+    </RD>
+  </Hospital>
+  <Hospital>
+    <RD>
+      <Patient>
+        <Name>Vaim</Name>
+        <TypeDisease>headache</TypeDisease>
+        <Age>18</Age>
+      </Patient>
+      <Patient>
+        <Name>Dasha</Name>
+        <TypeDisease>depression</TypeDisease>
+        <Age>18</Age>
+      </Patient>
+      <Patient>
+        <Name>Maxim</Name>
+        <TypeDisease>leg fracture</TypeDisease>
+        <Age>24</Age>
+      </Patient>
+      <Patient>
+        <Name>Oleg</Name>
+        <TypeDisease>leg fracture</TypeDisease>
+        <Age>21</Age>
+      </Patient>
+      <Patient>
+        <Name>Anna</Name>
+        <TypeDisease>headache</TypeDisease>
+        <Age>20</Age>
+      </Patient>
+    </RD>
+  </Hospital>
+  <Hospital>
+    <RD>
+      <Patient>
+        <Name>Dasha</Name>
+        <TypeDisease>depression</TypeDisease>
+        <Age>18</Age>
+      </Patient>
+    </RD>
+  </Hospital>
+  <Hospital>
+    <RD>
+      <Patient>
+        <Name>Oleg</Name>
+        <TypeDisease>leg fracture</TypeDisease>
+        <Age>21</Age>
+      </Patient>
+    </RD>
+  </Hospital>
+  <Hospital>
+    <RD>
+      <Patient>
+        <Name>Maxim</Name>
+        <TypeDisease>leg fracture</TypeDisease>
+        <Age>24</Age>
+      </Patient>
+    </RD>
+  </Hospital>
+  <Hospital>
+    <RD>
+      <Patient>
+        <Name>Anna</Name>
+        <TypeDisease>headache</TypeDisease>
+        <Age>20</Age>
+      </Patient>
+    </RD>
+  </Hospital>
+</ArrayOfHospital>
